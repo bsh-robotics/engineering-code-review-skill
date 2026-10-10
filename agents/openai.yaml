@@ -1,0 +1,6 @@
+interface:
+  display_name: "Engineering Workflow and Code Review"
+  short_description: "Evidence-driven review and modular implementation"
+  default_prompt: "Use $engineering-code-review for evidence-driven engineering work, code review, or staged modular implementation."
+policy:
+  allow_implicit_invocation: true
